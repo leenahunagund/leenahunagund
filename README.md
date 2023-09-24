@@ -14,13 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --> 
-<details>
-<summary>languages</summary>
 
-| Rank | Languages |
-|-----:|-----------|
-|     1| C         |
-|     2| Python    |
-|     3| Java      |
-
-</details>
