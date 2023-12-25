@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 -->
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=leenahunagund&show_icons=true&locale=en&layout=compact" alt="leenahunagund" /></p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=leenahunagund9&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
