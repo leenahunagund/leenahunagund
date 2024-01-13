@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=leenahunagund&label=Profile%20views&color=0e75b6&style=flat" alt="Leena" /> </p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=leenahunagund&show_icons=true&locale=en&layout=compact" alt="leenahunagund" /></p>
 
