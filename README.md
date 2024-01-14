@@ -1,5 +1,5 @@
 ### Hi, Im Leena 👋
-A passionate Learner and Developer, currently a CSE Junior at JSSSTU (formerly SJCE), Mysore, Karnataka, India. 
+An Enthusiastic Learner and Developer, currently a CSE Junior at JSSSTU (formerly SJCE), Mysore, Karnataka, India. 
 
 <!--
 leenahunagund/leenahunagund** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
