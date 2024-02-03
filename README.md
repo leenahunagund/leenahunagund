@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=leenahunagund&show_icons=true&locale=en&layout=compact" alt="leenahunagund" /></p>
 <!--- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=leenahunagund&show_icons=true&locale=en" alt="Leena" /></p>--->
 <!--- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=leenahunagund&" alt=" Leena " /></p>--->
-![](https://github-profile-trophy.vercel.app/?username=leenahunagund&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+ <p>![](https://github-profile-trophy.vercel.app/?username=leenahunagund&theme=radical&no-frame=false&no-bg=true&margin-w=4)</p>
