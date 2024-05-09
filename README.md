@@ -1,4 +1,4 @@
-### Hi, Im Leena 👋
+## Hi, Im Leena 👋
 An Enthusiastic Learner and Developer, currently a CSE Junior at JSSSTU (formerly SJCE), Mysore, Karnataka, India. 
 
 👯 I’m looking to collaborate on Projects<br>
