@@ -15,6 +15,5 @@ An Enthusiastic Learner and Developer, currently a CSE Junior at JSSSTU (formerl
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=leenahunagund&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
 
-## Achivevements
-<img src="https://cdn.qwiklabs.com/%2BlsBsryVyG0kEn7y2kgNUoCJxiq4mL%2BFeCfysb3Cw%2BI%3D" height="200px" width="300px">
-<img arc="https://cdn.qwiklabs.com/3hKxk2GK8q9pW6k%2FDx03nRrNB%2F9BJXKA3rOjV0ltBuU%3D" height="200px" width="300px">
+## 🥇Course Completion Badges
+<img src="https://cdn.qwiklabs.com/3hKxk2GK8q9pW6k%2FDx03nRrNB%2F9BJXKA3rOjV0ltBuU%3D" height="250px" width="300px">  <img src="https://cdn.qwiklabs.com/%2BlsBsryVyG0kEn7y2kgNUoCJxiq4mL%2BFeCfysb3Cw%2BI%3D" height="200px" width="300px">  
