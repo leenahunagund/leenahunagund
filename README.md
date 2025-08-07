@@ -1,7 +1,5 @@
 ## Hi, Im Leena 👋
-An Enthusiastic Learner and Developer, currently a CSE Senior at JSSSTU (formerly SJCE), Mysore, Karnataka, India. 
-
-👯 I’m looking to collaborate on Projects<br>
+An Enthusiastic Learner and Developer, graduated as a Comp Sci Engineer from JSSSTU (formerly SJCE), Mysore, Karnataka, India. 
 
 <p> <img src="https://komarev.com/ghpvc/?username=leenahunagund&label=Profile%20views&color=0e75b6&style=flat" alt="Leena" /> </p>
 
